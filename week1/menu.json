@@ -1,0 +1,43 @@
+{
+    "appetizers":[
+        {"name":"jalapeno poppers",
+        "ingredients":["jalapeno peppers", "flour"],
+        "description": "fried stuffed jalapeno peppers"},
+        {"name":"french fries",
+            "ingredients":["potatoes", "flour"],
+            "description": "fried potatoes"}
+    ],
+    "coldSandwiches":[
+        {"name":"ham sandwich",
+        "ingredients":["ham", "mayo"],
+        "description": "colod cut honey ham sandwichs"},
+        {"name":"turkey sandwich",
+            "ingredients":["turkey", "mayo"],
+            "description": "cold cut turkey sandwich"}
+    ],
+    "hot sandwiches":[
+        {"name":"bbq",
+        "ingredients":["barbequed pork", "pickles"],
+        "description": "smoked pork with barbeque sauce"},
+        {"name":"philly cheese stake",
+            "ingredients":["stake", "onions", "bell peppers"],
+            "description": "cooked stake with peppers and onions"}
+    ],
+    "desserts":[
+        {"name":"chocolate cake",
+        "ingredients":["cake mix", "eggs", "chocolate icing"],
+        "description": "moist chocolate cake"},
+        {"name":"milkshake",
+            "ingredients":["ice cream", "milk"],
+            "description": "refreshingly cold beverage"}
+    ],
+    "drinks":[
+        {"name":"coke",
+        "ingredients":["syrup", "carbonated water"],
+        "description": "refreshing beverage"},
+        {"name":"sweet tea",
+            "ingredients":["tea", "sugar"],
+            "description": "refreshing beverage"}
+    ]
+
+}
